@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10474180e5763f1428755a0b7726a8e8, type: 3}
+  m_Name: Settings
+  m_EditorClassIdentifier: 
+  TopLockedImage: {fileID: 2800000, guid: d0d604b067185b54299074791396610c, type: 3}
+  TopUnlockedImage: {fileID: 2800000, guid: bb8800705945e4f479ee6e07166bef39, type: 3}
+  topTopAlignmentIcon: {fileID: 2800000, guid: 5e8947556833b1d44b9e2df202827022, type: 3}
+  topBottomAlignmentIcon: {fileID: 2800000, guid: 864f16d02f4e9ce4198ad4c2b409aebb, type: 3}
+  topCenterAlignmentIcon: {fileID: 2800000, guid: 0b8b3a9e384710046ab855fcc4edd682, type: 3}
+  BottomLockedImage: {fileID: 2800000, guid: 9109d571004418c428891f76f5f9b87f, type: 3}
+  BottomUnlockedImage: {fileID: 2800000, guid: 34534fbffb8c06f428be934959d8b8e4, type: 3}
+  bottomTopAlignmentIcon: {fileID: 2800000, guid: 88871d70be6c2bb41b98c6ffc43db24c, type: 3}
+  bottomBottomAlignmentIcon: {fileID: 2800000, guid: b3b133ffa4e120f44a701439ae063b08, type: 3}
+  bottomCenterAlignmentIcon: {fileID: 2800000, guid: 2363b45432a84eb4ea4353cdbfbddef4, type: 3}
+  LeftLockedImage: {fileID: 2800000, guid: 9c224ae8a858ead489d9100137037630, type: 3}
+  LeftUnlockedImage: {fileID: 2800000, guid: 2aaee2b434ea3bf4f8c69158a07f834b, type: 3}
+  leftLeftAlignmentIcon: {fileID: 2800000, guid: 20eadf365014afa49bf333fadedb5320, type: 3}
+  leftRightAlignmentIcon: {fileID: 2800000, guid: d4b86c80511039f469f7b631e918e825, type: 3}
+  leftCenterAlignmentIcon: {fileID: 2800000, guid: be2aeff8e3aae4a4c8360fed2c70a41b, type: 3}
+  RightLockedImage: {fileID: 2800000, guid: a0ab7507b5d9cf640800343af026b01c, type: 3}
+  RightUnlockedImage: {fileID: 2800000, guid: d32845401f897a94c9d554efe40eb35d, type: 3}
+  rightLeftAlignmentIcon: {fileID: 2800000, guid: 327cb8da22f9075479bf199e0cd174b6, type: 3}
+  rightRightAlignmentIcon: {fileID: 2800000, guid: 1caaf884b58370c49bb63b8bcf024636, type: 3}
+  rightCenterAlignmentIcon: {fileID: 2800000, guid: 59ac0d9865107d549b69bed2129e33ce, type: 3}
+  topReferenceButtons: 010000000300000002000000
+  bottomReferenceButtons: 020000000300000001000000
+  leftReferenceButtons: 040000000600000005000000
+  rightReferenceButtons: 050000000600000004000000
+  defaultHandleBackgroundColor: {r: 0, g: 0, b: 0, a: 0.5}
+  defaultHandleOutlineColor: {r: 1, g: 1, b: 1, a: 1}
+  selectedHandleColor: {r: 1, g: 1, b: 1, a: 1}
+  targetRectOutlineColor: {r: 1, g: 1, b: 0.5, a: 1}
+  targetEdgeOutlineColor: {r: 1, g: 0.43259257, b: 0, a: 1}
+  offsetTextFontSize: 12
+  offsetTextColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  freeMovementKeyCode: 304
+  allowRuntimeExecution: 1
